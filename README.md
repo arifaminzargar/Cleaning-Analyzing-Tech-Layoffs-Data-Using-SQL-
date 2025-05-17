@@ -1,4 +1,4 @@
-##Cleaning-Analyzing-Tech-Layoffs-Data-Using-SQL-
+## Cleaning-Analyzing-Tech-Layoffs-Data-Using-SQL-
 
 🧹 Phase 1: Data Cleaning using SQL
 Real-world data is messy — and this dataset was no exception. Here's what I did to clean it:
