@@ -33,7 +33,7 @@ Removed helper fields like row_num after cleaning.
 
 ✅ End Result: A clean, structured dataset ready for analysis.
 
-##🔍 Phase 2: Exploratory Data Analysis (EDA)
+## 🔍 Phase 2: Exploratory Data Analysis (EDA)
 Once the data was cleaned, I asked several questions to uncover trends and patterns:
 
 📌 Q: What’s the highest number of layoffs in a single event?
