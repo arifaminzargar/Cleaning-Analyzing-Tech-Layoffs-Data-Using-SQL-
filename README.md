@@ -44,7 +44,7 @@ Some companies had 100% workforce layoffs, especially among heavily funded start
 
 📌 Q: Which companies laid off the most people?
 
-Google, Amazon, and Meta topped the charts in terms of total layoffs.
+ Amazon,Google and Meta topped the charts in terms of total layoffs.
 
 📌 Q: Which industries were hit hardest?
 
